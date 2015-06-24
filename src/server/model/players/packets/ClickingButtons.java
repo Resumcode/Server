@@ -1,5 +1,4 @@
 package server.model.players.packets;
-import server.model.players.content.*;
 
 import server.Config;
 import server.Server;
